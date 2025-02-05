@@ -1,52 +1,40 @@
-# Hi there, I'm Suman Phuyal! 👋
 
-## About Me 💻📚
+# Hi there, I'm Suman! 👋
 
-I'm a passionate learner and aspiring developer, diving deep into the world of technology and programming. Currently, I'm focused on mastering **Python** 🐍, **Django** 🌐, **C**, **C++**, and **Data Structures and Algorithms (DSA)** 📊 in C. My ultimate goal is to become a skilled **Backend Web Developer** 💼 and **Machine Learning Engineer** 🤖.
+[![GitHub followers](https://img.shields.io/github/followers/suman03-en?label=Follow&style=social)](https://github.com/suman03-en)
+[![Twitter Follow](https://img.shields.io/twitter/follow/suman03_en?style=social)](https://twitter.com/suman03_en)
 
-## Current Skills 🛠️
+## About Me
 
-- **Programming Languages**: Python 🐍, C, C++
-- **Web Development**: Django (beginner level) 🌐, HTML, CSS
-- **Data Structures and Algorithms**: Implementing core DSA concepts in C 📊
+I'm a passionate engineer and software developer with a keen interest in building innovative software solutions. I love exploring new technologies, learning new languages, and contributing to open source projects.  
+  
+- 🌱 I’m currently learning **C++, Data structure and algorithm,python and django**  
+- 👯 I’m looking to collaborate on **Open Source Projects**  
+- 💬 Ask me about **Web Development, Data Structures, and Algorithms**  
+- 📫 How to reach me: [email me](mailto:sfuyal59@gmail.com)  
+- ⚡ Fun fact: I love coding challenges and competitive programming!
 
-## What I'm Learning 🚀
+## Languages and Tools
 
-- Advanced **Python** programming and Object-Oriented Programming (OOP) 📘
-- **Django Framework** for backend development 🌐
-- Fundamentals of **Machine Learning** 🤖
-- Improving problem-solving skills with **DSA in C** 💡
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,linux" />
+</p>
 
-## Goals 🎯
+## Connect with Me
 
-1. Build robust and scalable backend systems using **Django** 🌐.
-2. Transition into Machine Learning by learning core concepts and working on practical projects 🤖.
-3. Solve real-world problems with programming and create meaningful software solutions 🌟.
+<p align="left">
+  <a href="https://github.com/suman03-en" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/suman03_en" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
 
-## Academics 🎓
-
-- **Bachelor's Degree**: Electronic Communication and Information Engineering from **Thapathali Campus**, Nepal 📚
-- **Higher Secondary Education**: Xavier International College, Kathmandu ( Excellent in Physics and Math) 🌟
-- **Secondary Education**: Triyuga English Medium Secondary School, Nepal  🏅
-
-## Projects 📂
-
-### To-Do App 📝
-
-- **Backend**: Built with **Django**, incorporating full CRUD operations.
-- **Features**:
-  - Add, update, delete, and mark tasks as complete.
-  - Search functionality to easily find tasks.
-- **Purpose**: Simplifies task management and demonstrates backend development skills with Django.
-
-## Connect With Me 🌐
-
-- **GitHub**: [https://github.com/suman03-en](https://github.com/suman03-en)
-- **LinkedIn**: [www.linkedin.com/in/suman-phuyal-85595a209](http://www.linkedin.com/in/suman-phuyal-85595a209)
-- **Email**: [sfuyal59@gmail.com](mailto\:sfuyal59@gmail.com) 📧
 
 ---
 
-Feel free to explore my repositories and follow my journey as I learn, build, and grow in the tech world! 🌟✨
-
-
+*Created with ❤️ by [Suman](https://github.com/suman03-en).*
