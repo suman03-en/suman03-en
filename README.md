@@ -26,7 +26,7 @@ I'm a passionate engineer and software developer with a keen interest in buildin
   <a href="https://github.com/suman03-en" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/suman-phuyal-85595a209/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/suman03_en" target="_blank">
