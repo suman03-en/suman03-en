@@ -1,5 +1,5 @@
 
-# Hi there, I'm Suman! 👋
+# Hi there, I'm Suman!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 [![GitHub followers](https://img.shields.io/github/followers/suman03-en?label=Follow&style=social)](https://github.com/suman03-en)
 [![Twitter Follow](https://img.shields.io/twitter/follow/suman03_en?style=social)](https://twitter.com/suman03_en)
